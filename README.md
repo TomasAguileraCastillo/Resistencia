@@ -1,7 +1,7 @@
 ﻿# Desafio1-Java-TD
 # Calculo de Resistencias 
 
-![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura2.JPG)
+![Imagen del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Resistencia/main/imagenes%20del%20proyecto/Captura1.JPG)
 
 ## Descripción 📑
 
